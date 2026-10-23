@@ -1,47 +1,35 @@
 # ariefandriyansm.github.io
 
-Official personal portfolio landing page for **Arief Andriyan** (Senior Full-Stack Engineer & Solutions Architect).
+Official personal portfolio of **Arief Andriyan SM (Ayung)** — Senior Full-Stack Engineer & Solutions Architect.
 
-Hosted natively with **GitHub Pages**: [https://ariefandriyansm.github.io](https://ariefandriyansm.github.io)
-
----
-
-## 🚀 Key Highlights & Architecture
-
-- **High-Performance & Lightweight**: Built with 100% native Vanilla HTML5, modern CSS3 (Custom Properties & Glassmorphism), and Vanilla ES6 JavaScript. No framework overhead or heavy build steps.
-- **Interactive Particle Constellation**: Responsive canvas-based background animation with cursor repulsion and dynamic connecting nodes.
-- **Dynamic Mouse Spotlight**: Ambient radial glow effect tracking pointer coordinates.
-- **Embedded Interactive Terminal (CLI)**: Functional terminal emulator allowing visitors to execute commands (`help`, `about`, `skills`, `projects`, `arch`, `contact`, `sudo hire`, `clear`).
-- **3D Interactive Card Tilt**: Dynamic perspective tilt on the hero profile card driven by pointer geometry.
-- **Dark / Light Mode**: Seamless theme toggling with smooth transitions and `localStorage` persistence.
-- **One-Click Clipboard Toast**: Easy copy-to-clipboard for email with micro-feedback notifications.
-- **SEO & Social Ready**: Complete OpenGraph, Twitter Cards, Semantic HTML5, and Schema.org JSON-LD structured data.
+Hosted on **GitHub Pages**: [https://ariefandriyansm.github.io](https://ariefandriyansm.github.io)
 
 ---
 
-## 🛠️ Tech Stack Featured
+## 🏛️ Design Architecture & Philosophy
 
-- **Backend & Systems**: .NET 8/9, C#, ASP.NET Core, Node.js, TypeScript, Laravel / PHP, Python, WebSockets
-- **Frontend & Mobile**: React, React Native, Vite, Next.js, Modern CSS3
-- **Cloud & DevOps**: Docker, Azure, GCP, Nginx, CI/CD, Microservices
-- **Databases**: PostgreSQL, Microsoft SQL Server, Redis, PostGIS
+- **Zero AI-Slop & High Signal**: Clean, confident Linear/Zinc design system. No gimmicky CPU-hogging background canvas, no fake terminal widgets, and no marketing fluff.
+- **Performance & Accessibility**: 100% native Vanilla HTML5, modern CSS3 with custom properties, and lightweight ES6 JavaScript (~100 lines total).
+- **Authentic Engineering Work**: Highlights real-world systems deployed for enterprise and public service operations (SIMONDAKI TNBTS, Enterprise IAMS & Risk Treatment, Field Tracking, MCP Agent Tooling).
+- **Dark & Light Mode**: Native theme switching with instant CSS variable updates and `localStorage` persistence.
+- **Responsive & Accessible**: Strict semantic hierarchy, contrast-compliant colors, mobile-friendly layouts, and complete Schema.org JSON-LD structured data.
 
 ---
 
 ## 📁 Repository Structure
 
 ```
-├── index.html         # Main semantic profile landing page & SEO metadata
+├── index.html         # Main semantic portfolio & SEO metadata
 ├── css/
-│   └── style.css      # Design system, glassmorphism tokens, and responsive layout
+│   └── style.css      # SaaS-grade Zinc design system & typography tokens
 ├── js/
-│   └── main.js        # Canvas particles, CLI terminal, theme engine, and animations
-└── README.md          # Repository documentation
+│   └── main.js        # Lean client logic (theme, skill filter, clipboard toast)
+└── README.md          # Documentation
 ```
 
 ---
 
-## 📬 Contact & Connect
+## 📬 Contact
 
 - **Email**: [ariefandriyansm@gmail.com](mailto:ariefandriyansm@gmail.com)
 - **GitHub**: [@ariefandriyansm](https://github.com/ariefandriyansm)
